@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Learning maven"
+title: "Learning Maven"
 date: 2021-01-10
 ---
 
-Using Maven, JUnit, Mockito on github codespaces. <a href="https://github.com/jnaithani/java/tree/master/learning-maven">Learning Maven</a>.
+Using Apache Maven, JUnit, Mockito on GitHub Codespaces. <a href="https://github.com/jnaithani/java/tree/master/learning-maven">Learning Maven</a>.
